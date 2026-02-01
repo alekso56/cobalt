@@ -4,6 +4,9 @@ desktop.ini
 
 # node
 node_modules
+api/node_modules
+web/node_modules
+packages/api-client/node_modules
 
 # static build
 build
